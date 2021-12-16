@@ -1,0 +1,26 @@
+{
+  "id": "8dd3dd5f-ef4d-49e6-a646-4eeb2c2ed181",
+  "name": "RENKUS HEINZ BC18",
+  "publisher": "CBR Technnology",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://RENKUSHEINZBC18.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

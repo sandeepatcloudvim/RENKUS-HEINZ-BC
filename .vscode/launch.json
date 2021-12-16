@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "type": "al",
+            "request": "launch",
+            "environmentType": "Sandbox",
+            "environmentName": "Renkus_Heinz_Testing_Sandbox",
+            "tenant": "bf37a11a-183e-4c16-8fa1-9fea0716d1bd",  
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "port": 18049,
+            "schemaUpdateMode":"Synchronize"
+        }
+    ]
+}
